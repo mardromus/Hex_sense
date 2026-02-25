@@ -1,0 +1,5 @@
+{
+  "name": "HexSense",
+  "description": "Haptic Malware Forensics Tool. Translates binary data entropy into haptic vibrations.",
+  "requestFramePermissions": []
+}
